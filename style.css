@@ -19,3 +19,10 @@
     margin-top: 10px ;
     border: 2px solid black;
 }
+
+.content{
+    height: 450px;
+    width: 90%;
+    margin-top: 10px ;
+    gap: 10px;
+}
